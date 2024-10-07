@@ -6,15 +6,15 @@ The proposed project focuses on predicting future prices for various cryptocurre
 **Key Features:**
 - **Data Preprocessing:** Effective handling of missing data, feature scaling, and the generation of relevant predictors to ensure accurate model training.
 - **Models Implemented:**
-  . Linear Regression
-  . XGBoost (Extreme Gradient Boosting)
-  . K-Nearest Neighbors (KNN)
-  . Random Forest
-  . Support Vector Regression (SVR)
+  - Linear Regression
+  - XGBoost (Extreme Gradient Boosting)
+  - K-Nearest Neighbors (KNN)
+  - Random Forest
+  - Support Vector Regression (SVR)
 - **Performance Metrics:**
-  . Mean Squared Error (MSE)
-  . R-squared (R²)
-  . Mean Absolute Percentage Error (MAPE)
+  - Mean Squared Error (MSE)
+  - R-squared (R²)
+  - Mean Absolute Percentage Error (MAPE)
 
 **Highlights:**
 . **Linear Regression** was the top performer for predicting Bitcoin and Wrapped Bitcoin prices, achieving R² scores of 0.9823 and 0.9780, respectively.
