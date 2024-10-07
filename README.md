@@ -18,7 +18,7 @@ The proposed project focuses on predicting future prices for various cryptocurre
 
 **Highlights:**
 - **Linear Regression** was the top performer for predicting Bitcoin and Wrapped Bitcoin prices, achieving R² scores of 0.9823 and 0.9780, respectively.
-- **XGBoost** achieved the best results for Monero predictions with the lowest MSE of 325.33, demonstrating its capability to capture price volatility.3.
+- **XGBoost** achieved the best results for Monero predictions with the lowest MSE of 325.33, demonstrating its capability to capture price volatility.
 - The repository provides full implementation, including data processing, feature selection, model training, and performance evaluation, making it useful for enhancing 
   cryptocurrency market analysis and improving investment strategies.
 
