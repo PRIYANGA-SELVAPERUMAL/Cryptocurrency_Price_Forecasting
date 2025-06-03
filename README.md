@@ -170,4 +170,5 @@ Open `cryptocurrency_price_forecasting.ipynb` and execute the cells sequentially
 * Develop a web application for real-time price prediction and visualization.
 * Explore deep learning models like LSTM and GRU for capturing temporal dependencies.([arxiv.org][9], [github.com][10])
 
--
+📄 Published Paper
+🔗 IEEE Xplore: Cryptocurrency Price Forecasting using ML Models
