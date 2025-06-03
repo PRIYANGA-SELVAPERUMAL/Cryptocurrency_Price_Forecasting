@@ -7,16 +7,16 @@ A comprehensive machine learning workflow that predicts future prices of leading
 
 ## 📌 Table of Contents
 
-* [About the Project](#about-the-project)
-* [Dataset](#dataset)
-* [Problem Statement](#problem-statement)
-* [Methodology](#methodology)
-* [Models Implemented](#models-implemented)
-* [Performance Metrics](#performance-metrics)
-* [Results](#results)
-* [Tech Stack](#tech-stack)
-* [How to Run the Project](#how-to-run-the-project)
-* [Future Enhancements](#future-enhancements)
+- [📖 About the Project](#about-the-project)
+- [🗂 Dataset](#dataset)
+- [❓ Problem Statement](#problem-statement)
+- [⚙️ Methodology](#methodology)
+- [🤖 Models Implemented](#models-implemented)
+- [📊 Performance Metrics](#performance-metrics)
+- [📈 Results](#results)
+- [💻 Tech Stack](#tech-stack)
+- [🚀 How to Run the Project](#how-to-run-the-project)
+- [🔮 Future Enhancements](#future-enhancements)
 
 ---
 
