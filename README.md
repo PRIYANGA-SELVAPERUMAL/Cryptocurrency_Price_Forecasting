@@ -1,7 +1,7 @@
 
 # 📈 Cryptocurrency Price Forecasting using Machine Learning
 
-An end-to-end machine learning project that predicts future prices of leading cryptocurrencies—Bitcoin (BTC), Ethereum (ETH), Wrapped Bitcoin (WBTC), and Monero (XMR)—using historical price data. The project encompasses data preprocessing, model training, evaluation, and visualization to assist investors and analysts in making informed decisions.
+A comprehensive machine learning workflow that predicts future prices of leading cryptocurrencies—Bitcoin (BTC), Ethereum (ETH), Wrapped Bitcoin (WBTC), and Monero (XMR)—using historical price data. The project encompasses data preprocessing, model training, evaluation, and visualization to assist investors and analysts in making informed decisions.
 
 ---
 
@@ -170,5 +170,9 @@ Open `cryptocurrency_price_forecasting.ipynb` and execute the cells sequentially
 * Develop a web application for real-time price prediction and visualization.
 * Explore deep learning models like LSTM and GRU for capturing temporal dependencies.([arxiv.org][9], [github.com][10])
 
-📄 Published Paper
-🔗 IEEE Xplore: Cryptocurrency Price Forecasting using ML Models
+## 📄 Published Paper
+
+🔗 [IEEE Xplore: Cryptocurrency Price Forecasting using ML Models](https://doi.org/10.1109/ICIETDW61607.2024.10941381)
+
+
+
