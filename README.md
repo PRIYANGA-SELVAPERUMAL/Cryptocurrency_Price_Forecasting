@@ -26,7 +26,8 @@ Cryptocurrencies exhibit high volatility, making price prediction a challenging 
 
 ---
 
-## 📊 Dataset
+<a name="dataset"></a>
+## 🗂 Dataset
 
 * **Source**: [Dataset.zip](Dataset.zip)
 * **Contents**: Historical price data for BTC, ETH, WBTC, and XMR
@@ -46,12 +47,14 @@ Cryptocurrencies exhibit high volatility, making price prediction a challenging 
 
 ---
 
+<a name="problem-statement"></a>
 ## ❓ Problem Statement
 
 Develop machine learning models that can accurately predict the future prices of selected cryptocurrencies based on historical data, aiding investors in making data-driven decisions.
 
 ---
 
+<a name="methodology"></a>
 ## 🔍 Methodology
 
 ### Data Preprocessing:
@@ -68,6 +71,7 @@ Develop machine learning models that can accurately predict the future prices of
 
 ---
 
+<a name="models-implemented"></a>
 ## 🤖 Models Implemented
 
 * Linear Regression
@@ -78,6 +82,7 @@ Develop machine learning models that can accurately predict the future prices of
 
 ---
 
+<a name="performance-metrics"></a>
 ## 📏 Performance Metrics
 
 * **Mean Squared Error (MSE)**: Measures the average squared difference between predicted and actual values.
@@ -86,6 +91,7 @@ Develop machine learning models that can accurately predict the future prices of
 
 ---
 
+<a name="results"></a>
 ## ✅ Results
 
 | Cryptocurrency      | Model             | MSE            | R² Score | MAPE    |
@@ -114,6 +120,7 @@ Develop machine learning models that can accurately predict the future prices of
 
 ---
 
+<a name="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 * **Programming Language**: Python
@@ -123,6 +130,7 @@ Develop machine learning models that can accurately predict the future prices of
 
 ---
 
+<a name="how-to-run-the-project"></a>
 ## ⚙️ How to Run the Project
 
 1. **Clone the repository**:
@@ -163,6 +171,7 @@ Open `cryptocurrency_price_forecasting.ipynb` and execute the cells sequentially
 
 ---
 
+<a name="future-enhancements"></a>
 ## 🔭 Future Enhancements
 
 * Integrate sentiment analysis from social media and news sources to capture market sentiment.
