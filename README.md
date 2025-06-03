@@ -19,7 +19,8 @@ A comprehensive machine learning workflow that predicts future prices of leading
 * [Future Enhancements](#future-enhancements)
 ---
 
-## About the Project
+<a name="about-the-project"></a>
+## 📖 About the Project
 
 Cryptocurrencies exhibit high volatility, making price prediction a challenging task. This project leverages various machine learning algorithms to forecast the prices of BTC, ETH, WBTC, and XMR. By analyzing historical price data, the models aim to capture patterns and trends to predict future prices accurately.
 
