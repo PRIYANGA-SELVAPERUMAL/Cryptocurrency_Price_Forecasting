@@ -67,7 +67,7 @@ Develop machine learning models that can accurately predict the future prices of
 
 * Splitting data into training and testing sets
 * Training multiple regression models
-* Evaluating models using MSE, R², and MAPE([github.com][2])
+* Evaluating models using MSE, R², and MAPE
 
 ---
 
