@@ -87,7 +87,7 @@ Develop machine learning models that can accurately predict the future prices of
 
 * **Mean Squared Error (MSE)**: Measures the average squared difference between predicted and actual values.
 * **R-squared (R²)**: Indicates the proportion of variance in the dependent variable predictable from the independent variables.
-* **Mean Absolute Percentage Error (MAPE)**: Expresses accuracy as a percentage.([arxiv.org][3])
+* **Mean Absolute Percentage Error (MAPE)**: Expresses accuracy as a percentage.
 
 ---
 
